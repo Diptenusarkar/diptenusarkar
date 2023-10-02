@@ -41,10 +41,4 @@ Here are some ideas to get you started:
 
 -->
 ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
-
-<p align="left"> <a href="https://twitter.com/diptenusarkar" target="blank"><img src="https://img.shields.io/twitter/follow/diptenusarkar?logo=twitter&style=for-the-badge" alt="diptenusarkar" /></a> </p>
-
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diptenusarkar&" alt="diptenusarkar" /></p>
