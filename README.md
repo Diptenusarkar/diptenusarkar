@@ -13,21 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diptenusarkar&label=Profile%20views&color=0e75b6&style=flat" alt="diptenusarkar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diptenusarkar" alt="diptenusarkar" /></a> </p>
 -->
 ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
 <h1 align="center">Hi 👋, I'm Diptenu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diptenusarkar&label=Profile%20views&color=0e75b6&style=flat" alt="diptenusarkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diptenusarkar" alt="diptenusarkar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/diptenusarkar" target="blank"><img src="https://img.shields.io/twitter/follow/diptenusarkar?logo=twitter&style=for-the-badge" alt="diptenusarkar" /></a> </p>
 
-- 🌱 I’m currently learning **SCSS, JS**
-
-- 📫 How to reach me **diptenu@dsky.in**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
