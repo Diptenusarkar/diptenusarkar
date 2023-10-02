@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
 <h1 align="center">Hi 👋, I'm Diptenu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
